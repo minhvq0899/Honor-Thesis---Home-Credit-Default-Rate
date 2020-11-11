@@ -1,5 +1,6 @@
 # Honor Thesis---Home Credit Default Rate
 
+### Introduction 
 I am a student  at Clark University (class of 21), double majoring in Economics and Computer Science and minoring in Data Science. Therefor, 
 I was hoping I can have my honor thesis as a Data Science project in a topic that relates to both majors. 
 
@@ -11,6 +12,7 @@ Beside the main train dataset, there are many more datasets containing informati
 https://www.kaggle.com/c/home-credit-default-risk
 
 
+### This repo's structure
 
 
 
