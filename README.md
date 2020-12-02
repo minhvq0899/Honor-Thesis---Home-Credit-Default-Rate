@@ -1,6 +1,6 @@
 # Honor Thesis---Home Credit Default Rate
  
-I am a student  at Clark University (class of 21), double majoring in Economics and Computer Science and minoring in Data Science. Therefor, 
+I am a student  at Clark University (class of 21), double majoring in Economics and Computer Science and minoring in Data Science. Therefore, 
 I was hoping I can have my honor thesis as a Data Science project in a topic that relates to both majors. 
 
 I have always been interested in the banking industry. More specifically, I want to know more about loan, default rate and how can we apply data in this industry. In this project, I will try to build a credit risk/ scorecard model to predict how likely someone will default his/her loan. I will use this dataset from Home Credit to build the model. 
