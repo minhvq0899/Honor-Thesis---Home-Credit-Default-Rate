@@ -1,5 +1,7 @@
 # Honor Thesis---Home Credit Default Rate
- 
+
+[Presentation link](https://www.canva.com/design/DAEKr6nl5j4/qv6wxLLWYfFJARhqRpGkGw/view?utm_content=DAEKr6nl5j4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6909dab8e2)
+
 I am a student  at Clark University (class of 21), double majoring in Economics and Computer Science and minoring in Data Science. Therefore, 
 I was hoping I can have my honor thesis as a Data Science project in a topic that relates to both majors. 
 
